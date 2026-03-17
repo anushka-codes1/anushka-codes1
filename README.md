@@ -18,7 +18,7 @@ Currently deepening skills in **data structures, system design fundamentals, and
 ### 🪐 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,react,nodejs,typescript,angular,html,css,postgres&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,react,nodejs,typescript,angular,html,css&perline=10" />
 </p>
 
 ---
