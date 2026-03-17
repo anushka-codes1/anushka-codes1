@@ -28,8 +28,14 @@ JavaScript • Python • Java • React • Node.js • Typescript • Angular 
 <hr style="border: 1px solid #6C63FF;">
 
 ### GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anushka-codes1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=anushka-codes1&theme=tokyonight" height="160"/>
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=anushka-codes1&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka-codes1&layout=compact&theme=tokyonight" height="140"/>
+</p>
 
 <hr style="border: 1px solid #6C63FF;">
 
