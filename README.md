@@ -20,9 +20,9 @@ JavaScript • Python • Java • React • Node.js • Typescript • Angular 
 
 ### Selected Work
 
-* **Project One** — a brief, impact-focused description
-* **Project Two** — a brief, impact-focused description
-* **Project Three** — a brief, impact-focused description
+- CampusSwap — peer-to-peer campus marketplace with secure authentication, Stripe payments, and QR-based item exchange  
+- Team Task Manager — task management application with dynamic UI and efficient data handling  
+- Drum Kit App — interactive browser-based app using JavaScript and DOM event handling  
 
 ---
 
