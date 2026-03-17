@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=C3B1FF&size=26&center=true&vCenter=true&width=720&lines=Full-stack+Developer;Designing+clean+and+scalable+systems;Turning+ideas+into+real+products;Exploring+code+%E2%9C%A8" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="100%" />
-</p>
-
 ---
 
 ### 🌌 About
@@ -51,10 +47,6 @@ Currently deepening skills in **data structures, system design fundamentals, and
 ### 🧬 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushka-codes1&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
@@ -81,6 +73,7 @@ Currently deepening skills in **data structures, system design fundamentals, and
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anushka-codes1&color=6C63FF&style=flat-square" />
 </p>
+
 
 
 
