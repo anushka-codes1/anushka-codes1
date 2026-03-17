@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f2a,100:6C63FF&height=220&section=header&text=Anushka%20Mukherjee&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20GSoC%20/%20LFX%20Aspirant%20%7C%20Building%20in%20the%20Digital%20Universe&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f2a,100:6C63FF&height=220&section=header&text=Anushka%20Mukherjee&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%207C%20Building%20in%20the%20Digital%20Universe&descAlignY=55&descAlign=50" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=C3B1FF&size=26&center=true&vCenter=true&width=720&lines=Full-stack+Developer;Designing+clean+and+scalable+systems;Turning+ideas+into+real+products;Exploring+code+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=C3B1FF&size=26&center=true&vCenter=true&width=720&lines=Full-stack+Developer;GSoC+/+LFX+Aspirant;Designing+clean+and+scalable+systems;Turning+ideas+into+real+products;Exploring+code+%E2%9C%A8" />
 </p>
 
 ---
