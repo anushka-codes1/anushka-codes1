@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:6C63FF&height=200&section=header&text=Anushka&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:6C63FF&height=200&section=header&text=Anushka Mukherjee&fontSize=40&fontColor=ffffff" />
 </p>
-## Hi there 👋
-# Anushka here!
+
 <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=22&width=500&lines=Full-stack+Developer;Building+clean+web+apps;Always+learning+and+improving" />
 
 <hr style="border: 1px solid #6C63FF;">
