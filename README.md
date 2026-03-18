@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f2a,100:1a1f4c&height=220&section=header&text=Anushka%20Mukherjee&fontSize=44&fontColor=EAEAFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20✦%20GSoC%20%2F%20LFX%20Aspirant&descAlignY=58&descAlign=50" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&section=header&text=Anushka%20Mukherjee&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9D8CFF&size=26&center=true&vCenter=true&width=750&lines=Full-stack+Developer;GSoC+/+LFX+Aspirant;Designing+clean+and+scalable+systems;Turning+ideas+into+real+products;Exploring+code+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=AFAAFF&size=24&center=true&vCenter=true&width=700&lines=Building+clean+and+scalable+systems;Full-stack+Developer;Turning+ideas+into+real+products" />
 </p>
 
 ---
