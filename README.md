@@ -34,14 +34,13 @@ Currently deepening skills in **data structures, system design fundamentals, and
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushka-codes1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=10&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=anushka-codes1&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anushka-codes1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=12&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=anushka-codes1&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka-codes1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka-codes1&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" height="150"/>
 </p>
-
 ---
 
 ### 🧬 Activity
