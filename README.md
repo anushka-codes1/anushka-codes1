@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=9D8CFF&size=26&center=true&vCenter=true&width=750&lines=Full-stack+Developer;GSoC+/+LFX+Aspirant;Designing+clean+and+scalable+systems;Turning+ideas+into+real+products;Exploring+code+%E2%9C%A8" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
-</p>
-
 ---
 
 ### 🌌 About
