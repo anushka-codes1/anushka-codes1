@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,100:3a0ca3&height=240&section=header&text=Anushka%20Mukherjee&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20✦%20Building%20in%20the%20Digital%20Universe&descAlignY=58&descAlign=50" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&section=header&text=Anushka%20Mukherjee&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=60" />
 </p>
 
 <p align="center">
