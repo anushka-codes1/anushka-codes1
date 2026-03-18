@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f2a,100:6C63FF&height=220&section=header&text=Anushka%20Mukherjee&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20in%20the%20Digital%20Universe&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,100:3a0ca3&height=240&section=header&text=Anushka%20Mukherjee&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20✦%20Building%20in%20the%20Digital%20Universe&descAlignY=58&descAlign=50" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=C3B1FF&size=26&center=true&vCenter=true&width=720&lines=Full-stack+Developer;GSoC+/+LFX+Aspirant;Designing+clean+and+scalable+systems;Turning+ideas+into+real+products;Exploring+code+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=9D8CFF&size=26&center=true&vCenter=true&width=750&lines=Full-stack+Developer;GSoC+/+LFX+Aspirant;Designing+clean+and+scalable+systems;Turning+ideas+into+real+products;Exploring+code+%E2%9C%A8" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
 </p>
 
 ---
@@ -31,16 +35,17 @@ Currently deepening skills in **data structures, system design fundamentals, and
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Developer Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushka-codes1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=12&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=anushka-codes1&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anushka-codes1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&border_radius=12&cache_seconds=1800" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=anushka-codes1&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka-codes1&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" height="150"/>
 </p>
+
 ---
 
 ### 🧬 Activity
@@ -65,7 +70,7 @@ Currently deepening skills in **data structures, system design fundamentals, and
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0b0f2a&height=140&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,100:000814&height=140&section=footer" />
 </p>
 
 <p align="center">
