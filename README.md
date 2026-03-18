@@ -58,6 +58,9 @@ Currently deepening skills in **data structures, system design fundamentals, and
   <a href="https://www.linkedin.com/in/anushka-mukherjee28">
     <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/_anushka.mukherjee_/">
+    <img src="https://img.shields.io/badge/Instagram-6C63FF?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -73,8 +76,6 @@ Currently deepening skills in **data structures, system design fundamentals, and
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anushka-codes1&color=6C63FF&style=flat-square" />
 </p>
-
-
 
 
 <!--
