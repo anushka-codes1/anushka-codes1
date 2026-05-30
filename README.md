@@ -23,11 +23,60 @@ Currently deepening skills in **data structures, system design fundamentals, and
 
 ---
 
-### 🚀 Selected Work
+## 🚀 Selected Work
 
-* **CampusSwap** — peer-to-peer campus marketplace with secure auth, **Stripe pre-authorized payments**, and **QR-based exchange**
-* **Team Task Manager** — task management system with dynamic UI and efficient data handling
-* **Drum Kit App** — interactive browser app using JavaScript events and audio integration
+### 🤖 AI Resume Analyzer
+
+**AI-Powered ATS Resume Intelligence Platform**
+
+An intelligent resume analysis system that evaluates ATS compatibility, extracts critical keywords, generates contextual summaries, and provides actionable optimization recommendations using Large Language Models.
+
+**Highlights**
+
+* ATS Compatibility Scoring
+* AI Resume Summarization
+* Keyword Extraction Engine
+* Resume Optimization Suggestions
+* Professional Feedback Generation
+
+🔗 Repository: https://github.com/anushka-codes1/Resume-Analyser
+
+---
+
+### 🌐 Anushka.OS
+
+**Personal Portfolio & Digital Operating System**
+
+A custom-built developer portfolio designed around a futuristic operating-system inspired interface, showcasing projects, technical skills, and engineering journey through immersive animations and modern web technologies.
+
+**Highlights**
+
+* Custom Interactive UI
+* Animated Technology Network
+* Responsive Design
+* SEO Optimized
+* Open Graph & Social Metadata
+
+🔗 Repository: https://github.com/anushka-codes1/Anushka-os
+
+---
+
+### 🎓 CampusSwap
+
+**Student Marketplace Platform**
+
+A full-stack campus marketplace that enables students to buy, sell, and exchange academic resources within a trusted university ecosystem.
+
+**Highlights**
+
+* Peer-to-Peer Marketplace
+* Resource Discovery System
+* User Authentication
+* Listing Management
+* Student Community Exchange
+
+🔗 Repository: https://github.com/anushka-codes1/CampusSwap
+
 
 ---
 
